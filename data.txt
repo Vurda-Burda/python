@@ -1,3 +1,0 @@
-Ivan Ivanov 123456
-Petr Petrov 654321
-Roman Romanov 9876543
